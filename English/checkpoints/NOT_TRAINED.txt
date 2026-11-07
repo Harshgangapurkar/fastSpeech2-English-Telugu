@@ -1,0 +1,1 @@
+No trained checkpoint is supplied. Run the pipeline in README.md.

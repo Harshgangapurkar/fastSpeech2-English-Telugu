@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+data/*/features/
+data/*/aligned/
+*.tmp
+
+# Local environments and private settings
+.venv*/
+venv/
+.env
+.env.*
+__pycache__/
+*.pyc
+
+# Local datasets and model binaries
+data/
+*.pt
+*.pth
+*.ckpt
+*.zip
